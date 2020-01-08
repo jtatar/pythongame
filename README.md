@@ -4,4 +4,4 @@ To run the game download:
 [RenderPipeline](https://github.com/tobspr/RenderPipeline)
 
 - Copy game into samples directory in RenderPipeline
-- in cmd type ```bash ppython .\main.py ```
+- in cmd type ``` ppython .\main.py ```
